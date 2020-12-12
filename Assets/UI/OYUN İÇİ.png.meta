@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 4ba02420b7d860741bcf09c47db6cd0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 317292976559454515
+    second: "OYUN I\u0307C\u0327I\u0307_0"
+  - first:
+      213: -6493179247576069137
+    second: "OYUN I\u0307C\u0327I\u0307_1"
+  - first:
+      213: 467233904671151914
+    second: "OYUN I\u0307C\u0327I\u0307_2"
+  - first:
+      213: 260986885176935893
+    second: "OYUN I\u0307C\u0327I\u0307_3"
+  - first:
+      213: -1064314707540342579
+    second: "OYUN I\u0307C\u0327I\u0307_4"
+  - first:
+      213: 5653847683884216925
+    second: "OYUN I\u0307C\u0327I\u0307_5"
+  - first:
+      213: -5692100888839098889
+    second: "OYUN I\u0307C\u0327I\u0307_6"
+  - first:
+      213: -7042671337641795704
+    second: "OYUN I\u0307C\u0327I\u0307_7"
+  - first:
+      213: -8789666505827274393
+    second: "OYUN I\u0307C\u0327I\u0307_8"
+  - first:
+      213: 8258632768229369171
+    second: "OYUN I\u0307C\u0327I\u0307_9"
+  - first:
+      213: -6618910471751928048
+    second: "OYUN I\u0307C\u0327I\u0307_10"
+  - first:
+      213: 7992389246101084574
+    second: "OYUN I\u0307C\u0327I\u0307_11"
+  - first:
+      213: -5104097924000773437
+    second: "OYUN I\u0307C\u0327I\u0307_12"
+  - first:
+      213: 1187195925988570330
+    second: "OYUN I\u0307C\u0327I\u0307_13"
+  - first:
+      213: -2648774309293694165
+    second: "OYUN I\u0307C\u0327I\u0307_14"
+  - first:
+      213: 3429827397593851166
+    second: "OYUN I\u0307C\u0327I\u0307_15"
+  - first:
+      213: 8495970112872294740
+    second: "OYUN I\u0307C\u0327I\u0307_16"
+  - first:
+      213: 2614086169463108599
+    second: "OYUN I\u0307C\u0327I\u0307_17"
+  - first:
+      213: -4648169553972014171
+    second: "OYUN I\u0307C\u0327I\u0307_18"
+  - first:
+      213: -8422285378723706265
+    second: "OYUN I\u0307C\u0327I\u0307_19"
+  - first:
+      213: -2631239966271823255
+    second: "OYUN I\u0307C\u0327I\u0307_20"
+  - first:
+      213: 631521063156720122
+    second: "OYUN I\u0307C\u0327I\u0307_21"
+  - first:
+      213: -6741998276582928052
+    second: "OYUN I\u0307C\u0327I\u0307_22"
+  - first:
+      213: 5012995373870034606
+    second: "OYUN I\u0307C\u0327I\u0307_23"
+  - first:
+      213: 9045722220529670525
+    second: "OYUN I\u0307C\u0327I\u0307_24"
+  - first:
+      213: -4335802047115480452
+    second: "OYUN I\u0307C\u0327I\u0307_25"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_0"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 961
+        width: 390
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3397d85f740476400800000000000000
+      internalID: 317292976559454515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_1"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 982
+        width: 146
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb4a4d60e793e5a0800000000000000
+      internalID: -6493179247576069137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_2"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 980
+        width: 147
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2751f2c2c2fb7600800000000000000
+      internalID: 467233904671151914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_3"
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 896
+        width: 666
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c10670363f9300800000000000000
+      internalID: 260986885176935893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_4"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 841
+        width: 152
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc885d7996bca31f0800000000000000
+      internalID: -1064314707540342579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_5"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 791
+        width: 426
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52751c5380867e40800000000000000
+      internalID: 5653847683884216925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_6"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 721
+        width: 462
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd6f0f46689101b0800000000000000
+      internalID: -5692100888839098889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_7"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 575
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f190a6bb7634e90800000000000000
+      internalID: -7042671337641795704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_8"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7613402f1e4d40680800000000000000
+      internalID: -8789666505827274393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_9"
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 547
+        width: 178
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35566b02fbe8c9270800000000000000
+      internalID: 8258632768229369171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_10"
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 662
+        width: 666
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017fc139ef7e424a0800000000000000
+      internalID: -6618910471751928048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_11"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 478
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99d1808cabaaee60800000000000000
+      internalID: 7992389246101084574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_12"
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 472
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca00251bf99a29b0800000000000000
+      internalID: -5104097924000773437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_13"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 403
+        width: 172
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4f6579764c97010800000000000000
+      internalID: 1187195925988570330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_14"
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 491
+        width: 181
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b236e5cacc9ad3bd0800000000000000
+      internalID: -2648774309293694165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_15"
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 462
+        width: 426
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15eb7a98d1399f20800000000000000
+      internalID: 3429827397593851166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_16"
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 404
+        width: 153
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a618ddcfb7e570800000000000000
+      internalID: 8495970112872294740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_17"
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 445
+        width: 317
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f33c176589174420800000000000000
+      internalID: 2614086169463108599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_18"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 263
+        width: 334
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a356bfea626e7fb0800000000000000
+      internalID: -4648169553972014171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_19"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 264
+        width: 151
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a053c32180e1b80800000000000000
+      internalID: -8422285378723706265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_20"
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 386
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ae8b0135fb7bd0800000000000000
+      internalID: -2631239966271823255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_21"
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 386
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af122ad9f0d93c800800000000000000
+      internalID: 631521063156720122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_22"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 200
+        width: 224
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419affb94c9f62a0800000000000000
+      internalID: -6741998276582928052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_23"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 121
+        width: 172
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae23388bbcb19540800000000000000
+      internalID: 5012995373870034606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_24"
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 69
+        width: 257
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79578bee6cd88d70800000000000000
+      internalID: 9045722220529670525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "OYUN I\u0307C\u0327I\u0307_25"
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 69
+        width: 257
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72354d920324d3c0800000000000000
+      internalID: -4335802047115480452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
